@@ -35,6 +35,7 @@ int menu() {
 
 bool exec(quanly& DSSV, int mode) {
 	system("cls");
+	SVDH* temp = NULL;
 	switch (mode)
 	{
 	case 1:
@@ -47,7 +48,10 @@ bool exec(quanly& DSSV, int mode) {
 		cout << "So luong sinh vien tot nghiep la: " << DSSV.passed_counter() << "\n";
 		break;
 	case 4:
-		DSSV.maxAvg_score()->output();
+		if ((temp = DSSV.maxAvg_score()) != NULL) {
+			temp->output();
+		}
+		else cout << "Khong tim thay sinh vien dai hoc.\n";
 		break;
 	case 5:
 		return false;

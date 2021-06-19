@@ -105,5 +105,8 @@ SVDH* quanly::maxAvg_score() {
 			max = list[i]->getAvg_score();
 		}
 	}
-	return ((SVDH*)list[index]);
+	if (list[index]->flag == 1) {
+		return ((SVDH*)list[index]);
+	}
+	return NULL;
 }
