@@ -28,7 +28,7 @@ int hash_menu();
 bool exec(node* hashtable[], int arr[], int n, int mode = menu());
 
 int main() {
-	int arr[] = { 32,15,25,44,36,21,15 };
+	int arr[] = { 32,15,25,44,36,21 };
 	int n = sizeof(arr) / sizeof(int);
 	node* hashtable[M];
 	init(hashtable);
@@ -61,7 +61,7 @@ bool search_linear(node* hashtable[], int(*function)(int key), int key) {
 	int index = (*function)(key);
 	while (hashtable[index] != NULL
 		&& hashtable[index]->data != key) {
-		index = (index + 1) % M;
+		index = (*function)(index + 1);
 	}
 	if (hashtable[index] == NULL)return false;
 	return true;
@@ -71,7 +71,7 @@ bool search_quad(node* hashtable[], int(*function)(int key), int key) {
 	int i = 1;
 	while (hashtable[index] != NULL
 		&& hashtable[index]->data != key) {
-		index = ((*function)(key) + i * i) % M;
+		index = (*function)((*function)(key) + i * i);
 		i++;
 	}
 	if (hashtable[index] == NULL)return false;
@@ -90,7 +90,7 @@ void insertHash_linear(node* hashtable[], int(*function)(int key), int key) {
 	if (search_linear(hashtable, (*function), key))return;
 	int index = (*function)(key);
 	while (hashtable[index] != NULL) {
-		index = (index + 1) % M;
+		index = (*function)(index + 1);
 	}
 	hashtable[index] = new node(key);
 	N++;
@@ -100,7 +100,7 @@ void insertHash_quad(node* hashtable[], int(*function)(int key), int key) {
 	int index = F1(key);
 	int i = 1;
 	while (hashtable[index] != NULL) {
-		index = ((*function)(key) + i * i) % M;
+		index = (*function)((*function)(key) + i * i);
 		i++;
 	}
 	hashtable[index] = new node(key);
