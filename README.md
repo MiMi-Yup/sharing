@@ -50,6 +50,7 @@ Phần mềm **autoStudent** phát huy hiệu quả tốt nhất đối với m�
 
 <details>
   <summary>Các công nghệ sử dụng</summary>
+
 - Nền tảng: .Net Framework, version 4.7.2
 - Thư viện đồ họa: Windows Forms, GunaUI
 - IDE: Microsoft Visual Studio 2019
