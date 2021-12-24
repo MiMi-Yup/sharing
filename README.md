@@ -4,7 +4,7 @@
 ## THÀNH VIÊN THAM GIA
 <details>
   <summary>Thông tin chi tiết các thành viên</summary>
-  
+
 | No. | Student ID | Full name | Class | Role |
 | --- | --- | --- | --- | --- |
 | 1 | 20521008 | [Phan Xuân Quang](https://github.com/phanxuanquang "Phan Xuân Quang") | KTPM2020 | Trưởng nhóm |
@@ -13,7 +13,8 @@
 | 4 | 20521205 | [Dín Hiền Dũng](https://github.com/dung-ovl "Dín Hiền Dũng") | KTPM2020 | Thành viên |
 
 </details>
-###  **CHƯƠNG 1. TỔNG QUAN**
+
+##  **CHƯƠNG 1. TỔNG QUAN**
 
 **1.1. Bài toán thực tế.**
 
@@ -41,7 +42,7 @@ Phần mềm **autoStudent** phát huy hiệu quả tốt nhất đối với m�
 | 4 | Tương thích phần cứng | Đảm bảo | Không đảm bảo |
 | 4 | Khả năng nhiễm virus | Có | Không |
 
-### **CHƯƠNG 2. YÊU CẦU HỆ THỐNG**
+## **CHƯƠNG 2. YÊU CẦU HỆ THỐNG**
 
 | No. |  | Tối thiểu | Khuyến nghị |
 | --- | --- | --- | --- |
@@ -50,7 +51,7 @@ Phần mềm **autoStudent** phát huy hiệu quả tốt nhất đối với m�
 | 3 | Dung lượng trống trong ổ cứng | 1GB trên mỗi 10 phần mềm được chọn | 2GB trên mỗi 10 phần mềm được chọn | 
 | 5 | Kết nối mạng | Chỉ cần cho tác vụ cài đặt | Chỉ cần cho tác vụ cài đặt |
 
-### **CHƯƠNG 3. CÁC CHỨC NĂNG CHÍNH**
+## **CHƯƠNG 3. CÁC CHỨC NĂNG CHÍNH**
 
 **3.1. Tự động cài đặt phần mềm hàng loạt.**
 
