@@ -1,7 +1,7 @@
 # # IT008.M11 - VISUAL PROGRAMMING 
 **© 2021 University of Information Technology / autoStudent Project**
 ------------
-## THÀNH VIÊN THAM GIA
+###  **1. THÀNH VIÊN THAM GIA**
 <details>
   <summary>Thông tin chi tiết các thành viên</summary>
 
@@ -14,7 +14,7 @@
 
 </details>
 
-###  **1. TỔNG QUAN**
+###  **2. TỔNG QUAN**
 <details>
   <summary>Bài toán thực tế</summary>
 
@@ -38,9 +38,9 @@ Trong thực tế đời sống và công việc, chúng ta thường sẽ gặp
 
 </details>
 
-### **2. YÊU CẦU CHỨC NĂNG CHI TIẾT**
+### **3. YÊU CẦU CHỨC NĂNG CHI TIẾT**
 
-### **3. YÊU CẦU HỆ THỐNG**
+### **4. YÊU CẦU HỆ THỐNG**
 
 | No. |  | Tối thiểu | Khuyến nghị |
 | --- | --- | --- | --- |
@@ -49,7 +49,7 @@ Trong thực tế đời sống và công việc, chúng ta thường sẽ gặp
 | 3 | Dung lượng trống trong ổ cứng | 1GB trên mỗi 10 phần mềm được chọn | 2GB trên mỗi 10 phần mềm được chọn | 
 | 5 | Kết nối mạng | Chỉ cần cho tác vụ cài đặt | Chỉ cần cho tác vụ cài đặt |
 
-### **4. Công nghệ sử dụng**
+### **5. Công nghệ sử dụng**
 
 <details>
   <summary>Các công nghệ sử dụng</summary>
@@ -61,15 +61,15 @@ Trong thực tế đời sống và công việc, chúng ta thường sẽ gặp
 
 </details>
 
-### **5. CÁC CHỨC NĂNG CHÍNH - HƯỚNG DẪN CÀI ĐẶT**
+### **6. CÁC CHỨC NĂNG CHÍNH - HƯỚNG DẪN CÀI ĐẶT**
 
-**3.1. Tự động cài đặt phần mềm hàng loạt.**
+**6.1. Tự động cài đặt phần mềm hàng loạt.**
 
-**3.2. Tự động GỠ cài đặt phần mềm hàng loạt.**
+**6.2. Tự động GỠ cài đặt phần mềm hàng loạt.**
 
-**3.3. Dọn dẹp và cập nhật nhanh chóng.**
+**6.3. Dọn dẹp và cập nhật nhanh chóng.**
 
-**3.4. Thiết lập hành động.**
+**6.4. Thiết lập hành động.**
 - Xuất danh sách phần mềm được chọn sau khi cài đặt hoặc gỡ cài đặt hoàn tất. 
 - Nhập danh sách phần mềm muốn cài đặt hoặc gỡ cài đặt.
 - Hẹn giờ khởi chạy trình cài đặt hoặc gỡ cài đặt.
