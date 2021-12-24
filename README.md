@@ -5,7 +5,7 @@
 <details>
   <summary>Thông tin chi tiết các thành viên</summary>
 
-| STT. | MSSV | HỌ VÀ TÊN | LỚP | VAI TRÒ |
+| STT | MSSV | HỌ VÀ TÊN | LỚP | VAI TRÒ |
 | --- | --- | --- | --- | --- |
 | 1 | 20521008 | [Phan Xuân Quang](https://github.com/phanxuanquang "Phan Xuân Quang") | KTPM2020 | Trưởng nhóm |
 | 2 | 20521956 | [Trần Văn Thiệt](https://github.com/MiMi-Yup "Trần Văn Thiệt") | KTPM2020 | Thành viên |
@@ -88,7 +88,18 @@ Trong thực tế đời sống và công việc, chúng ta thường sẽ gặp
 
 </details>
 
-### **4. Công nghệ sử dụng**
+### **4. SƠ ĐỒ KHỐI**
+
+<details>
+  <summary>Sơ đồ giao diện</summary>
+
+|      ![](./ReadmeAsset/flowUI.png)       |
+| :-----------------------------------------: |
+| _SƠ ĐỒ GIAO DIỆN PHẦN MỀM_ |
+
+</details>
+
+### **5. CÔNG NGHỆ SỬ DỤNG**
 
 <details>
   <summary>Các công nghệ sử dụng</summary>
@@ -101,7 +112,7 @@ Trong thực tế đời sống và công việc, chúng ta thường sẽ gặp
 
 </details>
 
-### **5. YÊU CẦU HỆ THỐNG**
+### **6. YÊU CẦU HỆ THỐNG**
 
 | No. |  | Tối thiểu | Khuyến nghị |
 | --- | --- | --- | --- |
@@ -110,15 +121,15 @@ Trong thực tế đời sống và công việc, chúng ta thường sẽ gặp
 | 3 | Dung lượng trống trong ổ cứng | 1GB trên mỗi 10 phần mềm được chọn | 2GB trên mỗi 10 phần mềm được chọn | 
 | 5 | Kết nối mạng | Chỉ cần cho tác vụ cài đặt | Chỉ cần cho tác vụ cài đặt |
 
-### **6. CÁC CHỨC NĂNG CHÍNH - HƯỚNG DẪN CÀI ĐẶT**
+### **7. CÁC CHỨC NĂNG CHÍNH - HƯỚNG DẪN CÀI ĐẶT**
 
-**6.1. Tự động cài đặt phần mềm hàng loạt.**
+**7.1. Tự động cài đặt phần mềm hàng loạt.**
 
-**6.2. Tự động GỠ cài đặt phần mềm hàng loạt.**
+**7.2. Tự động GỠ cài đặt phần mềm hàng loạt.**
 
-**6.3. Dọn dẹp và cập nhật nhanh chóng.**
+**7.3. Dọn dẹp và cập nhật nhanh chóng.**
 
-**6.4. Thiết lập hành động.**
+**7.4. Thiết lập hành động.**
 - Xuất danh sách phần mềm được chọn sau khi cài đặt hoặc gỡ cài đặt hoàn tất. 
 - Nhập danh sách phần mềm muốn cài đặt hoặc gỡ cài đặt.
 - Hẹn giờ khởi chạy trình cài đặt hoặc gỡ cài đặt.
