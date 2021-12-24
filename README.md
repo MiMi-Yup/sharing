@@ -15,8 +15,8 @@
 </details>
 
 ###  **CHƯƠNG 1. TỔNG QUAN**
-
-**1.1. Bài toán thực tế.**
+<details>
+  <summary>Thông tin chi tiết các thành viên</summary>
 
 Trong thực tế đời sống và công việc, chúng ta thường sẽ gặp các tình huống sau:
 
@@ -26,11 +26,14 @@ Trong thực tế đời sống và công việc, chúng ta thường sẽ gặp
 - *Một tổ chức muốn tiết kiệm thời gian và nhân lực cho việc thiết lập hệ thống phần mềm trong máy tính Windows của toàn bộ nhân viên hoặc chỉ đơn giản là muốn cài thêm một số lượng phần mềm cho máy tính của các nhân viên mà không muốn phải ghost Windows hay để nhân viên tự cài đặt.*
 - . . .
 
-**1.2. Ý tưởng xây dựng phần mềm.**
+</details>
 
+<details>
+  <summary>Thông tin chi tiết các thành viên</summary>
 Từ các tình huống thực tế nêu trên, nhóm chúng tôi xây dựng phần mềm autoStudent nhằm tự động hóa hoàn toàn quá trình cài đặt và gỡ cài đặt phần mềm cho máy tính Windows với hơn 150 phần mềm phổ biến được hỗ trợ. Với autoStudent, người dùng có thể tiết kiệm được thời gian tìm kiếm, cài đặt phần mềm và gỡ cài đặt số lượng lớn phần mềm một cách nhanh chóng, đảm bảo được tính chính xác trong quy trình cũng như tính nhất quán khi thực hiện trên nhiều máy tính, ngoài ra còn giúp người dùng tận dụng tốt thời gian để làm các công việc khác.
 
 Phần mềm **autoStudent** phát huy hiệu quả tốt nhất đối với một hệ thống nhiều máy tính muốn cài đặt chung một tổ hợp gồm rất nhiều phần mềm được **autoStudent** hỗ trợ.
+</details>
 
 **1.3. So sánh với phương pháp Ghost Windows.**
 
