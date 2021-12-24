@@ -122,6 +122,4 @@ Trong thực tế đời sống và công việc, chúng ta thường sẽ gặp
 | 5 | Kết nối mạng | Chỉ cần cho tác vụ cài đặt | Chỉ cần cho tác vụ cài đặt |
 
 ### **7. CÁC CHỨC NĂNG CHÍNH - HƯỚNG DẪN CÀI ĐẶT**
-[1]: ./ReadmeAsset/manual.pdf
-
-["Hướng dẫn sử dụng"](./ReadmeAsset/manual.pdf)
+![](./ReadmeAsset/icon_pdf.png)[Hướng dẫn sử dụng](./ReadmeAsset/manual.pdf)
