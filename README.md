@@ -14,7 +14,7 @@
 
 </details>
 
-###  **CHƯƠNG 1. TỔNG QUAN**
+###  **1. TỔNG QUAN**
 <details>
   <summary>Bài toán thực tế</summary>
 
@@ -35,17 +35,9 @@ Từ các tình huống thực tế nêu trên, nhóm chúng tôi xây dựng ph
 Phần mềm **autoStudent** phát huy hiệu quả tốt nhất đối với một hệ thống nhiều máy tính muốn cài đặt chung một tổ hợp gồm rất nhiều phần mềm được **autoStudent** hỗ trợ.
 </details>
 
-**1.3. So sánh với phương pháp Ghost Windows.**
+### **2. YÊU CẦU CHỨC NĂNG CHI TIẾT**
 
-| No. |  | Phương pháp Ghost Windows | Sử dụng autoStudent |
-| --- | --- | --- | --- |
-| 1 | Mất dữ liệu hiện hành | Có | Không | 
-| 3 | Số lượng thao tác| Nhiều hơn | Ít hơn |
-| 4 | Thời gian thực hiện | Không khác biệt nhiều | Không khác biệt nhiều |
-| 4 | Tương thích phần cứng | Đảm bảo | Không đảm bảo |
-| 4 | Khả năng nhiễm virus | Có | Không |
-
-### **CHƯƠNG 2. YÊU CẦU HỆ THỐNG**
+### **3. YÊU CẦU HỆ THỐNG**
 
 | No. |  | Tối thiểu | Khuyến nghị |
 | --- | --- | --- | --- |
@@ -54,7 +46,9 @@ Phần mềm **autoStudent** phát huy hiệu quả tốt nhất đối với m�
 | 3 | Dung lượng trống trong ổ cứng | 1GB trên mỗi 10 phần mềm được chọn | 2GB trên mỗi 10 phần mềm được chọn | 
 | 5 | Kết nối mạng | Chỉ cần cho tác vụ cài đặt | Chỉ cần cho tác vụ cài đặt |
 
-### **CHƯƠNG 3. CÁC CHỨC NĂNG CHÍNH**
+### **4. Công nghệ sử dụng**
+
+### **5. CÁC CHỨC NĂNG CHÍNH - HƯỚNG DẪN CÀI ĐẶT**
 
 **3.1. Tự động cài đặt phần mềm hàng loạt.**
 
