@@ -5,7 +5,7 @@
 <details>
   <summary>Thông tin chi tiết các thành viên</summary>
 
-| No. | Student ID | Full name | Class | Role |
+| STT. | MSSV | HỌ VÀ TÊN | LỚP | VAI TRÒ |
 | --- | --- | --- | --- | --- |
 | 1 | 20521008 | [Phan Xuân Quang](https://github.com/phanxuanquang "Phan Xuân Quang") | KTPM2020 | Trưởng nhóm |
 | 2 | 20521956 | [Trần Văn Thiệt](https://github.com/MiMi-Yup "Trần Văn Thiệt") | KTPM2020 | Thành viên |
@@ -93,6 +93,7 @@ Trong thực tế đời sống và công việc, chúng ta thường sẽ gặp
 <details>
   <summary>Các công nghệ sử dụng</summary>
 
+- Ngôn ngữ lập trình: C#
 - Nền tảng: .Net Framework, version 4.7.2
 - Thư viện đồ họa: Windows Forms, GunaUI
 - IDE: Microsoft Visual Studio 2019
