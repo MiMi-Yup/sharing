@@ -31,6 +31,7 @@ Trong thực tế đời sống và công việc, chúng ta thường sẽ gặp
 <details>
   <summary>Mục tiêu ứng dụng</summary>
 
+- Rút ngắn thời gian người dùng cài đặt và gỡ cài đặt ứng dụng.
 - Chọn lọc những phần mềm có thể hỗ trợ (hơn 150 phần mềm).
 - Tự động hóa quá trình cài đặt và gỡ cài đặt.
 - Chia sẻ những phần mềm cho nhiều người khác.
@@ -44,7 +45,7 @@ Trong thực tế đời sống và công việc, chúng ta thường sẽ gặp
   <summary>Hẹn giờ, chạy ngầm, khởi động cùng Windows</summary>
 
 - Đặt timeout.
-- Đặt register trong hệ thống.
+- Đặt registry trong hệ thống.
 - Notify để chạy ngầm.
 
 </details>
@@ -52,8 +53,8 @@ Trong thực tế đời sống và công việc, chúng ta thường sẽ gặp
 <details>
   <summary>Dọn dẹp, cập nhật, phản hồi</summary>
 
-- Xóa thư mục dùng để lưu những trình cài đặt sẽ tải về + xóa thư mục Temp
-- Kiểm tra TimeLastModified của gói tin, nếu thay đổi thì download database mới về.
+- Xóa thư mục dùng để lưu những trình cài đặt sẽ tải về, thư mục tạm thời
+- Kiểm tra thời điểm gói tin được sửa đổi lần cuối cùng, nếu thay đổi thì cập nhật cơ sở dữ liệu.
 - Gửi phản hồi qua gmail cho nhà phát triền.
 
 </details>
@@ -61,10 +62,10 @@ Trong thực tế đời sống và công việc, chúng ta thường sẽ gặp
 <details>
   <summary>Chọn phần mềm</summary>
 
-- Hiển thị danh sách phần mềm hỗ trợ trên database.
+- Hiển thị danh sách phần mềm hỗ trợ trên cơ sở dữ liệu.
 - Hiển thị danh sách phần mềm trong máy tính.
 - Lọc những phần mềm trong từng ngành (kỹ thuật, công nghệ thông tin, đa phương tiện, .v.v).
-- Đưa danh sách phần mềm từ bên ngoài bằng file *.as
+- Đưa danh sách phần mềm từ bên ngoài bằng tệp tin *.as
 
 </details>
 
@@ -107,7 +108,7 @@ Trong thực tế đời sống và công việc, chúng ta thường sẽ gặp
 - Ngôn ngữ lập trình: C#
 - Nền tảng: .Net Framework, version 4.7.2
 - Thư viện đồ họa: Windows Forms, GunaUI
-- IDE: Microsoft Visual Studio 2019
+- Môi trường phát triển: Microsoft Visual Studio 2019
 - Thư viện hỗ trợ khác: Newtonsoft.Json, Microsoft.WindowsAPICodePack
 
 </details>
