@@ -40,16 +40,42 @@ Trong thực tế đời sống và công việc, chúng ta thường sẽ gặp
 
 ### **3. YÊU CẦU CHỨC NĂNG CHI TIẾT**
 
-### **4. YÊU CẦU HỆ THỐNG**
+<details>
+  <summary>Mục tiêu ứng dụng</summary>
 
-| No. |  | Tối thiểu | Khuyến nghị |
-| --- | --- | --- | --- |
-| 1 | Hệ điều hành | Windows 7 32-bit | Windows 10 64-bit trở lên |
-| 2 | RAM | 2 GB | 4 GB trở lên |
-| 3 | Dung lượng trống trong ổ cứng | 1GB trên mỗi 10 phần mềm được chọn | 2GB trên mỗi 10 phần mềm được chọn | 
-| 5 | Kết nối mạng | Chỉ cần cho tác vụ cài đặt | Chỉ cần cho tác vụ cài đặt |
 
-### **5. Công nghệ sử dụng**
+
+</details>
+
+<details>
+  <summary>Mục tiêu ứng dụng</summary>
+
+
+
+</details>
+
+<details>
+  <summary>Mục tiêu ứng dụng</summary>
+
+
+
+</details>
+
+<details>
+  <summary>Mục tiêu ứng dụng</summary>
+
+
+
+</details>
+
+<details>
+  <summary>Mục tiêu ứng dụng</summary>
+
+
+
+</details>
+
+### **4. Công nghệ sử dụng**
 
 <details>
   <summary>Các công nghệ sử dụng</summary>
@@ -60,6 +86,15 @@ Trong thực tế đời sống và công việc, chúng ta thường sẽ gặp
 - Thư viện hỗ trợ khác: Newtonsoft.Json, Microsoft.WindowsAPICodePack
 
 </details>
+
+### **5. YÊU CẦU HỆ THỐNG**
+
+| No. |  | Tối thiểu | Khuyến nghị |
+| --- | --- | --- | --- |
+| 1 | Hệ điều hành | Windows 7 32-bit | Windows 10 64-bit trở lên |
+| 2 | RAM | 2 GB | 4 GB trở lên |
+| 3 | Dung lượng trống trong ổ cứng | 1GB trên mỗi 10 phần mềm được chọn | 2GB trên mỗi 10 phần mềm được chọn | 
+| 5 | Kết nối mạng | Chỉ cần cho tác vụ cài đặt | Chỉ cần cho tác vụ cài đặt |
 
 ### **6. CÁC CHỨC NĂNG CHÍNH - HƯỚNG DẪN CÀI ĐẶT**
 
