@@ -118,8 +118,9 @@ Trong thực tế đời sống và công việc, chúng ta thường sẽ gặp
 | --- | --- | --- | --- |
 | 1 | Hệ điều hành | Windows 7 32-bit | Windows 10 64-bit trở lên |
 | 2 | RAM | 2 GB | 4 GB trở lên |
-| 3 | Dung lượng trống trong ổ cứng | 1GB trên mỗi 10 phần mềm được chọn | 2GB trên mỗi 10 phần mềm được chọn | 
+| 3 | Dung lượng trống trong ổ cứng | 100MB | 100MB | 
 | 5 | Kết nối mạng | Chỉ cần cho tác vụ cài đặt | Chỉ cần cho tác vụ cài đặt |
 
 ### **7. CÁC CHỨC NĂNG CHÍNH - HƯỚNG DẪN CÀI ĐẶT**
-![Hướng dẫn sử dụng](./ReadmeAsset/manual.pdf)
+[1]: ./ReadmeAsset/manual.pdf
+[![Hướng dẫn sử dụng](./ReadmeAsset/icon_pdf.png)][1]
