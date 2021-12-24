@@ -91,11 +91,11 @@ Trong thực tế đời sống và công việc, chúng ta thường sẽ gặp
 ### **4. SƠ ĐỒ KHỐI**
 
 <details>
-  <summary>Sơ đồ giao diện</summary>
+  <summary>Sơ đồ giao diện phần mềm</summary>
 
 |      ![](./ReadmeAsset/flowUI.png)       |
 | :-----------------------------------------: |
-| _SƠ ĐỒ GIAO DIỆN PHẦN MỀM_ |
+| _SƠ ĐỒ ĐƯỜNG ĐI_ |
 
 </details>
 
