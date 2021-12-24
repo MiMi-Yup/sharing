@@ -122,16 +122,4 @@ Trong thực tế đời sống và công việc, chúng ta thường sẽ gặp
 | 5 | Kết nối mạng | Chỉ cần cho tác vụ cài đặt | Chỉ cần cho tác vụ cài đặt |
 
 ### **7. CÁC CHỨC NĂNG CHÍNH - HƯỚNG DẪN CÀI ĐẶT**
-
-**7.1. Tự động cài đặt phần mềm hàng loạt.**
-
-**7.2. Tự động GỠ cài đặt phần mềm hàng loạt.**
-
-**7.3. Dọn dẹp và cập nhật nhanh chóng.**
-
-**7.4. Thiết lập hành động.**
-- Xuất danh sách phần mềm được chọn sau khi cài đặt hoặc gỡ cài đặt hoàn tất. 
-- Nhập danh sách phần mềm muốn cài đặt hoặc gỡ cài đặt.
-- Hẹn giờ khởi chạy trình cài đặt hoặc gỡ cài đặt.
-- Thiết lập hành động sau khi hoàn tất quá trình cài đặt hoặc gỡ cài đặt.
-- Chạy ngầm và khởi động cùng hệ điều hành.
+![Hướng dẫn sử dụng](./ReadmeAsset/manual.png)
