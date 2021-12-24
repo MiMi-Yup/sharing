@@ -41,37 +41,50 @@ Trong thực tế đời sống và công việc, chúng ta thường sẽ gặp
 ### **3. YÊU CẦU CHỨC NĂNG CHI TIẾT**
 
 <details>
-  <summary>Mục tiêu ứng dụng</summary>
+  <summary>Hẹn giờ, chạy ngầm, khởi động cùng Windows</summary>
 
-
-
-</details>
-
-<details>
-  <summary>Mục tiêu ứng dụng</summary>
-
-
+- Đặt timeout.
+- Đặt register trong hệ thống.
+- Notify để chạy ngầm.
 
 </details>
 
 <details>
-  <summary>Mục tiêu ứng dụng</summary>
+  <summary>Dọn dẹp, cập nhật, phản hồi</summary>
 
-
-
-</details>
-
-<details>
-  <summary>Mục tiêu ứng dụng</summary>
-
-
+- Xóa thư mục dùng để lưu những trình cài đặt sẽ tải về + xóa thư mục Temp
+- Kiểm tra TimeLastModified của gói tin, nếu thay đổi thì download database mới về.
+- Gửi phản hồi qua gmail cho nhà phát triền.
 
 </details>
 
 <details>
-  <summary>Mục tiêu ứng dụng</summary>
+  <summary>Chọn phần mềm</summary>
 
+- Hiển thị danh sách phần mềm hỗ trợ trên database.
+- Hiển thị danh sách phần mềm trong máy tính.
+- Lọc những phần mềm trong từng ngành (kỹ thuật, công nghệ thông tin, đa phương tiện, .v.v).
+- Đưa danh sách phần mềm từ bên ngoài bằng file *.as
 
+</details>
+
+<details>
+  <summary>Cài đặt</summary>
+
+- Hiển thị danh sách các phần mềm sẽ cài đặt.
+- Hiển thị trạng thái của từng phần mềm và tổng thể.
+- Hủy một phần mềm hoặc hủy toàn bộ (hủy phần mềm đang tải, phần mềm chưa tới lượt)
+- Cho phép chạy ngầm khi chưa hoàn thành tất cả.
+
+</details>
+
+<details>
+  <summary>Gỡ cài đặt</summary>
+
+- Hiển thị danh sách các phần mềm sẽ gỡ cài đặt.
+- Hiển thị trạng thái tổng thể.
+- Hủy một phần mềm hoặc hủy toàn bộ (phần mềm chưa tới lượt)
+- Cho phép chạy ngầm khi chưa hoàn thành tất cả.
 
 </details>
 
