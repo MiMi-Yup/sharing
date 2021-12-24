@@ -1,7 +1,7 @@
 # # IT008.M11 - VISUAL PROGRAMMING 
 **© 2021 University of Information Technology / autoStudent Project**
 ------------
-### THÀNH VIÊN THAM GIA
+## THÀNH VIÊN THAM GIA
 <details>
   <summary>Thông tin chi tiết các thành viên</summary>
 
