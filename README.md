@@ -124,4 +124,4 @@ Trong thực tế đời sống và công việc, chúng ta thường sẽ gặp
 ### **7. CÁC CHỨC NĂNG CHÍNH - HƯỚNG DẪN CÀI ĐẶT**
 [1]: ./ReadmeAsset/manual.pdf
 
-[!["Hướng dẫn sử dụng"](./ReadmeAsset/icon_pdf.png)][1]!["Hướng dẫn sử dụng"]
+!["Hướng dẫn sử dụng"](./ReadmeAsset/manual.pdf)]
